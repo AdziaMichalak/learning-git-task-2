@@ -8,3 +8,4 @@ def customized_hello(first_name, last_name):
     print("Hello Mr %s %s" % (first_name, last_name))
 
 customized_hello("John", "Cleese")
+
